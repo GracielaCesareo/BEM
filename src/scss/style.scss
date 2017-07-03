@@ -1,4 +1,4 @@
-$blue-color: #0c3751;
+$blue-color: #000;
 $white-color: #FFF;
 $full-width: 100%;
 $flex-display: flex;
@@ -65,8 +65,8 @@ color: red;
 .btn-section__btn{
 width: 30%;
 padding: 8px;
-color: #FFF;
-background-color: #568d07 ;
+color: $white-color;
+background-color: red ;
 border: none;
 border-radius: 15px;
 cursor: pointer;
